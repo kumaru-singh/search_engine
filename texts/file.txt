@@ -1,0 +1,6 @@
+Ranking: based on frequency of the word
+
+Phrase search (multiple words)
+
+Boolean operators: AND, OR
+

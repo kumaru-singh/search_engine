@@ -1,0 +1,5 @@
+Create a folder texts/ in the same directory.
+
+Add 2–3 .txt files with words in them.
+
+Compile with:

@@ -1,0 +1,6 @@
+Boolean operators: AND, OR
+
+GUI using wxWidgets
+
+Add web crawler to read online content (next level)
+

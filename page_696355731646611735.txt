@@ -1,0 +1,2118 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>
+         Japan Index- Your adventure begins here      </title>
+<link rel="shortcut icon" href="https://japan.com/wp-content/themes/london/images/favicon.png" />
+<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700|Source+Serif+Pro:400,600,700" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="https://japan.com/wp-content/themes/london/style.css">
+<!--[if lt IE 9]>
+         <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+         <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+<script type="text/javascript">
+         var templateURL = 'http://japan.com/wp-content/themes/london/';
+      </script>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2115789881337099" crossorigin="anonymous"></script>
+<script type="text/javascript">
+function display_alert(){
+  alert("I am an alert box!!");
+  document.getElementById('seach_en').focus();
+}
+</script>
+<link rel="alternate" hreflang="en" href="https://japan.com" />
+<link rel="alternate" hreflang="sc" href="https://japan.com/sc/" />
+
+<meta name="description" content="With more than 2000 listed and verified places including restaurants, attractions and museums, japan.com is the go-to place to plan your next trip to the UK." />
+<link rel="canonical" href="https://japan.com" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="japan.com | Currated City-Guide of japan.com" />
+<meta property="og:description" content="With more than 2000 listed and verified places including restaurants, attractions and museums, japan.com is the go-to place to plan your next trip to the UK." />
+<meta property="og:url" content="http://japan.com" />
+<meta property="og:site_name" content="japan.com" />
+<meta property="og:image" content="http://japan.com/wp-content/uploads/2017/04/London-Bridge-and-Big-Ben-at-Night-1-1-2.jpg" />
+<meta property="og:image:width" content="2040" />
+<meta property="og:image:height" content="1148" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="With more than 2000 listed and verified places including restaurants, attractions and museums, japan.com is the go-to place to plan your next trip to the UK." />
+<meta name="twitter:title" content="japan.com | Currated City-Guide of japan.com" />
+<meta name="twitter:image" content="http://japan.com/wp-content/uploads/2017/04/London-Bridge-and-Big-Ben-at-Night-1-1-2.jpg" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/japan.com\/","name":"japan.com","potentialAction":{"@type":"SearchAction","target":"http:\/\/japan.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+
+<link rel='dns-prefetch' href='//japan.com' />
+<link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+
+<script type='text/javascript' data-cfasync='false'>
+  //<![CDATA[
+    _SHR_SETTINGS = {"endpoints":{"local_recs_url":"http:\/\/japan.com\/wp-admin\/admin-ajax.php?action=shareaholic_permalink_related","share_counts_url":"http:\/\/japan.com\/wp-admin\/admin-ajax.php?action=shareaholic_share_counts_api"}};
+  //]]>
+</script>
+<script type='text/javascript' data-cfasync='false' src='//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js' data-shr-siteid='cbadb257a512370c398f2e032aa0d72b' async='async'>
+</script>
+
+<meta name='shareaholic:site_name' content='japan.com' />
+<meta name='shareaholic:language' content='en-US' />
+<meta name='shareaholic:article_visibility' content='private' />
+<meta name='shareaholic:site_id' content='cbadb257a512370c398f2e032aa0d72b' />
+<meta name='shareaholic:wp_version' content='7.8.0.6' />
+
+<style type="text/css">.wf-gmp-canvas img{max-width:none!important;}.gmp_infowindow{min-width:100px;max-width:350px;}.wf-gmp-canvas>div:first-child{width:100%;} .gmp_directions{margin:5px}.gmp_directions input[type=submit]:hover{color:#000;font-weight:700}.gmp_switch img{margin:4px}.gmp_directions input[type=submit]{display:inline-block;text-transform:none;border:1px solid #dcdcdc;text-align:center;color:#444;font-size:13px;font-weight:400;padding:0 8px;line-height:27px;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;-webkit-transition:all .218s;-moz-transition:all .218s;-o-transition:all .218s;transition:all .218s;background-color:#f5f5f5;background-image:-webkit-gradient(linear,left top,left bottom,from(#f5f5f5),to(#f1f1f1));background-image:-webkit-linear-gradient(top,#f5f5f5,#f1f1f1);background-image:-moz-linear-gradient(top,#f5f5f5,#f1f1f1);background-image:-ms-linear-gradient(top,#f5f5f5,#f1f1f1);background-image:-o-linear-gradient(top,#f5f5f5,#f1f1f1);background-image:linear-gradient(top,#f5f5f5,#f1f1f1);filter:progid:DXImageTransform.Microsoft.gradient(startColorStr='#f5f5f5', EndColorStr='#f1f1f1')}.gmp_directions input[type=text]{width:160px;display:inline;background-color:#fff;padding:4px;border:1px solid #d9d9d9;-webkit-border-radius:1px;-moz-border-radius:1px;border-radius:1px;line-height:16px;margin:3px;color:#000;font-family:arial,helvetica,sans-serif;font-size:13px}</style>
+<link rel='stylesheet' id='yarppWidgetCss-css' href="https://japan.com/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css" type='text/css' media='all' />
+<link rel='stylesheet' id='ajax-load-more-css' href="https://japan.com/wp-content/plugins/ajax-load-more/core/dist/css/ajax-load-more.min.css" type='text/css' media='all' />
+<link rel='stylesheet' id='my-above-the-fold-css-css' href="https://japan.com/wp-content/plugins/my-above-the-fold-css/public/css/my-above-the-fold-css-public.css" type='text/css' media='all' />
+<link rel='stylesheet' id='taxonomy-image-plugin-public-css' href="https://japan.com/wp-content/plugins/taxonomy-images/css/style.css" type='text/css' media='screen' />
+<link rel='stylesheet' id='wpcloudy-css' href="https://japan.com/wp-content/plugins/wp-cloudy/css/wpcloudy.min.css" type='text/css' media='all' />
+<link rel='stylesheet' id='wpml-legacy-horizontal-list-0-css' href="https://japan.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.css" type='text/css' media='all' />
+<link rel='stylesheet' id='newsletter-subscription-css' href="https://japan.com/wp-content/plugins/newsletter/subscription/style.css" type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css' href='//netdna.bootstrapcdn.com/font-awesome/latest/css/font-awesome.css' type='text/css' media='all' />
+<link rel='stylesheet' id='yelp-reviews-css' href="https://japan.com/wp-content/plugins/yelp-reviews-pro/lib/css/yelp-reviews.css" type='text/css' media='all' />
+<style>
+			/* Accessible for screen readers but hidden from view */
+			.fa-hidden { position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden; }
+			.rtl .fa-hidden { left:10000px; }
+			.fa-showtext { margin-right: 5px; }
+		</style>
+<script type='text/javascript' src="https://japan.comwp-includes/js/jquery/jquery.js"></script>
+<script type='text/javascript' src="https://japan.comwp-includes/js/jquery/jquery-migrate.min.js"></script>
+<script type='text/javascript' src="https://japan.com/wp-content/plugins/my-above-the-fold-css/public/js/my-above-the-fold-css-public.js"></script>
+<script type='text/javascript' src="https://japan.com/wp-content/plugins/sitepress-multilingual-cms/res/js/jquery.cookie.js"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpml_cookies = {"_icl_current_language":{"value":"en","expires":1,"path":"\/"}};
+var wpml_cookies = {"_icl_current_language":{"value":"en","expires":1,"path":"\/"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src="https://japan.com/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js"></script>
+<link rel='https://api.w.org/' href="https://japan.comwp-json/" />
+<link rel="alternate" type="application/json+oembed" href="https://japan.comwp-json/oembed/1.0/embed?url=http%3A%2F%2Fjapan.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://japan.comwp-json/oembed/1.0/embed?url=http%3A%2F%2Fjapan.com%2F&#038;format=xml" />
+<style>
+                    #wp-admin-bar-displayTemplateName .ab-icon:before{
+                        font-family: "dashicons" !important;
+                        content: "\f100" !important;
+                    }
+
+                    #wp-admin-bar-displayTemplateName .ab-icon-child:before{
+                        font-family: "dashicons" !important;
+                        content: "\f345" !important;
+                    }
+                    </style><meta name="generator" content="WPML ver:3.7.1 stt:1,64;" />
+<link rel="icon" href="https://japan.com/wp-content/uploads/2017/06/cropped-logo-london-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://japan.com/wp-content/uploads/2017/06/cropped-logo-london-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://japan.com/wp-content/uploads/2017/06/cropped-logo-london-180x180.png" />
+<meta name="msapplication-TileImage" content="http://japan.com/wp-content/uploads/2017/06/cropped-logo-london-270x270.png" />
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137030894-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-137030894-1');
+</script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.8.2.js"></script>
+<style type="text/css">
+#overlay {
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+background-color: #000;
+filter:alpha(opacity=70);
+-moz-opacity:0.7;
+-khtml-opacity: 0.7;
+opacity: 0.7;
+z-index: 100;
+display: none;
+}
+.cnt223 a{
+text-decoration: none;
+}
+.popup{
+width: 100%;
+margin: 0 auto;
+display: none;
+position: fixed;
+z-index: 101;
+}
+
+.cnt223{
+max-width: 600px;
+width: 80%;
+min-height: 150px;
+margin: 100px auto;
+background: #f3f3f3;
+position: relative;
+z-index: 103;
+padding: 15px 35px;
+border-radius: 5px;
+box-shadow: 0 2px 5px #000;
+margin-left: 10%;
+margin-right: 10%;
+}
+.cnt223 p{
+clear: both;
+    color: #555555;
+    /* text-align: justify; */
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.cnt223 p a{
+color: #d91900;
+font-weight: bold;
+}
+.cnt223 .x{
+float: right;
+height: 35px;
+left: 22px;
+position: relative;
+top: -25px;
+width: 34px;
+}
+.cnt223 .x:hover{
+cursor: pointer;
+}
+
+@media (min-width: 480px){
+	
+.cnt223{
+min-width: none;
+width: 80%;
+min-height: 150px;
+margin: 100px auto;
+background: #f3f3f3;
+position: relative;
+z-index: 103;
+padding: 15px 35px;
+border-radius: 5px;
+box-shadow: 0 2px 5px #000;
+}
+}
+
+.popupheader{
+	width: 100%;
+	text-align: center;
+	font-weight: 700;
+	font-family: Poppins;
+    line-height: 1.25;
+    font-size: 24px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.popupcontent{
+	width: 100%;
+	text-align: left;
+	font-weight: 300;
+	font-family: Poppins;
+    line-height: 22px;
+    font-size: 12px;
+    margin-bottom: 40px;
+}
+
+.close {
+	
+	margin-top: 10px;
+	clear: both;
+	background-color:#b6231f;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+	    opacity: 1!important;
+}
+.close:hover {
+	color:#ffffff!important;
+	background-color:#b6231f;
+	    opacity: 1!important;
+}
+.close:active {
+	position:relative;
+	top:1px;
+	    opacity: 1!important;
+}
+</style>
+<script type='text/javascript'>
+
+function setCookie(cname,cvalue,exdays){
+    var d = new Date();
+    d.setTime(d.getTime()+(exdays*24*60*60*1000));
+    var expires = "expires="+d.toGMTString();
+    document.cookie = cname+"="+cvalue+"; "+expires + ";domain=japan.com;path=/";
+ 
+ }
+function getCookie(cname){
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0; i<ca.length; i++) {
+        var c = ca[i].trim();
+        if (c.indexOf(name)==0) { return c.substring(name.length,c.length); }
+    }
+    return "";
+}
+		setCookie("ping",1,10);
+        $(function(){
+	     var user=getCookie("onoff");
+	      //alert(user);  
+
+	    
+	    
+	    if (user!="1"){
+
+	        
+			var overlay = $('<div id="overlay"></div>');
+			overlay.show();
+			overlay.appendTo(document.body);
+			$('.popup').show();
+			$('.close').click(function(){
+			$('.popup').hide();
+			overlay.appendTo(document.body).remove();
+			setCookie("onoff",1,10);
+			return false;
+			});
+			$('.x').click(function(){
+			$('.popup').hide();
+			overlay.appendTo(document.body).remove();
+			return false;		
+			});
+  		}
+		
+		});
+
+
+</script>
+</head>
+<style>
+
+body.single-post .post-body a {
+    color: #e49d00!important;
+}
+
+b, strong {
+    font-weight: 700;
+    color: #b6231f;
+}
+
+p {
+    text-align: justify;
+}
+
+.page-title, .section-title {
+    color: #b6231f!important;
+}
+
+.page-title::after, .section-title::after {
+    background: #b6231f!important;
+}
+
+#menu-footer-menu li a {
+    color: #b6231f!important;
+    text-transform: uppercase;
+}
+
+footer .menu li a {
+    color: #b6231f!important;
+}
+
+footer .menu#social-media li a {
+    border: solid 2px #b6231f!important;
+}
+
+footer .menu#social-media li a:focus, footer .menu#social-media li a:hover {
+    background: #b6231f!important;
+}
+
+body.home .section-menu a {
+    color: #b6231f!important;
+    text-transform: uppercase;
+}
+
+body.home .section-menu a::after {
+    background: #b6231f!important;
+}
+
+.footer-menu{
+	display: none!important;
+}
+
+body.home section#sports h3 {
+    font-size: 17px!important;
+    font-weight: 700;
+    color: #b6231f;
+}
+
+@media (min-width: 480px){
+	
+body.home section#sports .item h3 {
+font-size: 17px;
+}
+
+}
+
+@media screen and (min-width: 768px){
+
+
+
+.yelpcontent {
+    float: left;
+    width: 100%!important;
+    /* width: 1170px; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.shortcode-yelp-reviews li.yelp-col3 {
+    width: 33%!important;
+}
+}
+
+.njt-yelp-main.njt-yelp-main-b .yelp-thumbnail {
+    height: 240px!important;
+    text-align: -webkit-center;
+}
+
+ul.shortcode-yelp-reviews.shortcode-yelp-reviews-search .yelp-thumbnail img, .njt-yelp-main.njt-yelp-main-b .yelp-thumbnail img {
+    width: auto!important;
+    height: 100%!important;
+}
+
+.shortcode-yelp-reviews li.yelp-col3 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+header a.logo {
+	width: 100px;
+	height: 35px;
+	margin-top: 10px;
+}
+
+
+
+@media (min-width: 480px){
+	header a.logo {
+	    width: 100px;
+	    height: 35px;
+	    -webkit-transition-delay: 0;
+	    transition-delay: 0;
+	}
+}
+
+@media (min-width: 768px){
+	header a.logo {
+	    width: 120px;
+	    height: 42px;
+	    margin-top: -6px;
+	}
+
+	header .menu ul.main-menu>li {
+	    display: inline-block;
+	    vertical-align: middle;
+	    margin: 0 .5em;
+	    font-size: 14px;
+	}
+
+}
+
+@media (min-width: 992px){
+	header a.logo {
+		width: 200px;
+	    height: 71px;
+	    margin-top: 0px;
+	}
+
+	
+	body.page-template-page-about .text-container>* {
+	    font-size: 1.025em;
+	}
+
+	header .menu ul.main-menu>li {
+	    font-size: 14px;
+	}
+	
+	header .menu ul.main-menu>li {
+	    margin-top: 0px;
+	    margin-right: 0.5em!important;
+	    margin-bottom: 0px;
+	    margin-left: 0.5em!important;
+	}
+
+}
+
+
+@media (min-width: 1200px){
+
+	header a.logo {
+	    width: 260px;
+	    height: 92px;
+	    margin-top: 10px;
+	}
+
+	header .menu ul.main-menu>li {
+	    font-size: 14px;
+	}
+
+	body.page-template-page-terms .text-container {
+		    font-size: 1.025em;
+	}
+}
+
+.language-switcher {
+    margin: 0 0 0 0!important;
+}
+</style>
+<body class="home page-template-default page page-id-5">
+<div class='popup'>
+<div class='cnt223'>
+<div class="popupheader">Thanks for visiting Japan.com</div>
+<div class="popupcontent">
+Under the General Data Protection Regulation, cookies are considered personal data. Cookies are used on this website. You can find more information about this in the privacy statement. You are hereby requested to accept the use of these cookies.
+Read our <a href="https://japan.com/privacy-policy/" style="color:#b6231f;" target="_blank">privacy policy.</a>
+<div class="popupcontent">
+<a href='' class='close'>ACCEPT</a>
+</div>
+</div>
+</div>
+</div>
+<header>
+<a class="logo" href="https://japan.com" style="background-image: url(http://japan.com/wp-content/themes/london/images/logo-london.png);"></a>
+<input type="checkbox" id="menu-trigger" />
+<label for="menu-trigger">
+<span></span>
+<span></span>
+<span></span>
+</label>
+<div class="menu">
+<nav class="menu-new-menu-container"><ul id="menu-new-menu" class="main-menu"><li id="menu-item-17825" class="home menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-17825"><a href="https://japan.com/index/">Home</a></li>
+<li id="menu-item-17813" class="culture menu-item menu-item-type-post_type menu-item-object-page menu-item-17813"><a href="https://japan.com/discover-activities/">Discover Activities</a></li>
+<li id="menu-item-17670" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17670"><a href="https://japan.com/tokyo/">Tokyo</a></li>
+<li id="menu-item-17671" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17671"><a href="https://japan.com/osaka/">Osaka</a></li>
+<li id="menu-item-17672" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17672"><a href="https://japan.com/kyoto/">Kyoto</a></li>
+<li id="menu-item-17669" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17669"><a href="https://japan.com/nagoya/">Nagoya</a></li>
+<li id="menu-item-17815" class="sport menu-item menu-item-type-post_type menu-item-object-page menu-item-17815"><a href="https://japan.com/okinawa/">Okinawa</a></li>
+<li id="menu-item-18416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18416"><a href="https://japan.com/fukuoka/">Fukuoka</a></li>
+<li id="menu-item-17842" class="menu-item menu-item-type-custom menu-item-object-custom social-icon facebook menu-item-17842"><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//japan.com"><i class='fa-2x fa fa-facebook '></i><span class='fa-hidden'>Facebook</span></a></li>
+<li id="menu-item-17843" class="menu-item menu-item-type-custom menu-item-object-custom social-icon twitter menu-item-17843"><a href="https://twitter.com/home?status=http%3A//japan.com"><i class='fa-2x fa fa-twitter '></i><span class='fa-hidden'>Twitter</span></a></li>
+</ul></nav> <div class="footer-menu">
+<nav class="menu-footer-menu-container"><ul id="menu-footer-menu" class="main-menu"><li id="menu-item-4622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4622"><a href="https://japan.com/about/">About</a></li>
+<li id="menu-item-5843" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5843"><a href="https://japan.com/partnership/">Partnership</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="https://japan.com/terms-and-conditions/">Terms and Conditions</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="https://japan.com/privacy-policy/">Privacy Policy</a></li>
+</ul></nav> </div>
+
+<div class="language-switcher"><img src="https://japan.com/wp-content/uploads/flags/php7AeDGL" height="12" alt="en" width="28" /><a href="https://japan.com/sc/index/"><img src="https://japan.com/wp-content/uploads/flags/phpva6HKI" height="12" alt="sc" width="28" /></a></div></div>
+</header>
+<div class="site-content">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script type="text/javascript">
+function scrollto(id) {
+	var etop = $('#' + id).offset().top - 250;
+	$('html, body').animate({
+	  scrollTop: etop
+	}, 1000);
+}
+</script>
+<style>
+
+
+.footer-menu{
+	display: none;
+}
+	
+.amobile {
+    position: relative;
+    margin: 1em -8px;
+    height: 420px;
+    text-align: center;
+}
+
+
+.hmobile {
+    position: relative;
+    margin: 1em -8px;
+    text-align: center;
+}
+
+
+.adesktop {
+    position: relative;
+    display: none;
+    margin: -8px;
+    height: 350px;
+    text-align: center;
+}
+
+
+
+@media (min-width: 768px){
+	
+.adesktop {
+    display: block;
+}
+.amobile {
+    display: none;
+}
+
+.hamobile {
+    display: none;
+}
+
+
+
+}
+
+body.home .tagline-container p {
+    text-align: center;
+}	
+.bx-next{
+	display: none;
+}
+
+.bx-prev{
+	display: none;
+}
+
+body.home section#area .item:focus::after, body.home section#area .item:hover::after {
+    opacity: .0!important;
+    -webkit-transform: scale(.9);
+    transform: scale(.9);
+}
+
+.cheader{
+	position: absolute;
+    bottom: 45%;
+    color: #ffffff;
+    text-align: center;
+    width: 100%;
+    font-size: 1.375em;
+    font-weight: 700;
+    font-family: Poppins;
+}
+
+.indexh{
+		font-size: 28px;
+		font-weight: 300;
+		font-family: Poppins;
+		text-shadow: 2px 0px 29px rgba(0, 0, 0, 0.29);
+}
+
+.indexp{
+	font-size: 80px;
+		text-transform: uppercase;
+		font-family: Poppins;
+		font-weight: 700;
+		margin: 0px;
+line-height: 45px;	
+		text-shadow: 2px 0px 29px rgba(0, 0, 0, 0.29);
+}
+
+@media screen and (max-width: 420px) {
+	.cheader{
+	    position: absolute;
+	    bottom: 32%;
+	    color: #ffffff;
+	    text-align: center;
+	    width: 100%;
+	    font-size: 1.075em;
+	    font-weight: 700;
+	    font-family: Poppins;
+	}
+	
+	.indexh{
+		font-size: 16px;
+		font-weight: 300;
+		font-family: Poppins;
+		text-shadow: 2px 0px 29px rgba(0, 0, 0, 0.29);
+	}
+	
+	.indexp{
+		font-size: 45px;
+		text-transform: uppercase;
+		font-family: Poppins;
+		font-weight: 700;
+		margin: 0px;
+line-height: 45px;	
+		text-shadow: 2px 0px 29px rgba(0, 0, 0, 0.29);
+	}
+	
+}
+
+h3{
+	text-transform:capitalize;
+}
+
+
+.container{
+	margin-left: auto!important;
+    margin-right: auto!important;
+}
+
+
+@media (min-width: 768px){
+	.language-switcher {
+	    margin: 0 0 0 0!important;
+	}
+}
+
+
+@media (min-width: 992px){
+	header .menu ul.main-menu>li {
+	    margin-top: 0px;
+	    margin-right: 0.7em;
+	    margin-bottom: 0px;
+	    margin-left: 0.7em;
+	}
+}
+</style>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript">
+        var images = ["http://japan.com/wp-content/uploads/2019/03/index_i_001.jpg", "http://japan.com/wp-content/uploads/2019/03/index_i_002.jpg"];
+        $(function () {
+            var i = 0;
+            $("#dvImage").css("background-image", "url(" + images[i] + ")");
+            setInterval(function () {
+                i++;
+                if (i == images.length) {
+                    i = 0;
+                }
+                $("#dvImage").fadeOut("slow", function () {
+                    $(this).css("background-image", "url(" + images[i] + ")");
+                    $(this).fadeIn("slow");
+                });
+            }, 5000);
+        });
+    </script>
+
+<div id="dvImage" class="landing-cover">
+<div class="tagline-container">
+<div class="indexp">Japan</div>
+<div class="indexh">Your adventure begins here</div>
+</div>
+</div>
+
+
+<style>
+   .page-title::after, .section-title::after {
+    background: #b6231f!important;
+}
+</style>
+
+<style>
+
+	    
+@media screen and (min-width: 1200px){
+	#adgshp1036723465 {
+	    display: block;
+	    margin-top: 30px;
+	    margin-left: -40px;
+	}
+
+	#adgshp-515266949{
+	    display: block;
+	    margin-top: 30px;
+	    margin-left: -40px;
+	}
+
+	#adgshp-464450466{
+	    display: block;
+	    margin-top: 30px;
+	    margin-left: -40px;
+	}
+
+	#adgshp-1224887581 {
+	    display: none;
+	}
+	
+	#adgshp1208747668{
+	    display: none;
+	}
+	
+	#adgshp627029728{
+	    display: none;
+	}
+}
+@media screen and (min-width: 992px){
+	#adgshp1036723465 {
+	    display: block;
+	    margin-top: 30px;
+	    margin-left: -40px;
+	}
+
+	#adgshp-515266949{
+	    display: block;
+	    margin-top: 30px;
+	    margin-left: -40px;
+	}
+
+	#adgshp-464450466{
+	    display: block;
+	    margin-top: 30px;
+	    margin-left: -40px;
+	}
+	
+	#adgshp-1224887581 {
+	    display: none;
+	}
+	
+	#adgshp1208747668{
+	    display: none;
+	}
+
+	#adgshp627029728{
+	    display: none;
+	}
+}
+
+@media (min-width: 768px){
+	#adgshp1036723465 {
+	    display: block;
+	    margin-top: 30px;
+	    margin-left: -40px;
+	}
+
+	#adgshp-515266949{
+	    display: block;
+	    margin-top: 30px;
+	    margin-left: -40px;
+	}
+
+	#adgshp-464450466{
+	    display: block;
+	    margin-top: 30px;
+	    margin-left: -40px;
+	}
+	
+	#adgshp-1224887581 {
+    	display: none;
+	}
+
+	#adgshp1208747668{
+	    display: none;
+	}
+
+	#adgshp627029728{
+	    display: none;
+	}
+}
+
+
+@media only screen and (max-width: 767px){
+
+	.agoda_d{
+	    display: block;
+	    background: url(/agoda_767en.jpg);
+	    -webkit-background-size: cover;
+	    -moz-background-size: cover;
+	    -o-background-size: cover;
+	    background-size: 100%;
+	    width: 100%;
+	    margin-left: auto;
+	    margin-right: auto;
+	    height: 570px;
+	    margin-top: 25px;
+	    background-color: #f7f2cd;
+	    background-repeat: no-repeat;
+	    text-align: center;
+		cursor: pointer;
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+	
+	.agoda_frame{
+	    float: inherit;
+	    margin-top: 110px;
+	    margin-bottom: 10px;
+	    border: 1px solid white;
+	    padding-right: 10px;
+	    margin-left: auto;
+	    margin-right: auto;
+   	}
+
+	.agoda_m{
+		display: none;
+	}
+
+}
+
+@media (min-width: 768px){
+
+	.agoda_d{
+		display: block;
+		background: url(/agoda_768en.jpg);
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+/* 		width: 100%; */
+	    width: 800px;
+	    margin-left: auto;
+	    margin-right: auto;
+	    height: 510px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+	    text-align: inherit;
+	    cursor: pointer;
+
+	}
+	
+	.agoda_frame{
+	    float: right;
+	    margin-right: 10px;
+	    margin-top: 40px;
+	    margin-left: 10px;
+	    margin-bottom: 10px;
+	    border: 1px solid white;
+	    padding-right: 10px;
+   	}
+
+	.agoda_m{
+		display: none;
+	}
+
+}
+
+
+@media (min-width: 900px){
+	
+	.agoda_d{
+		display: block;
+		background: url(/agoda_900en.jpg);
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+/* 		width: 100%; */
+		width: 910px;
+		margin-left: auto;
+		margin-right: auto;
+		height: 510px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		text-align: inherit;
+		cursor: pointer;
+	}
+	
+	.agoda_frame{
+	    float: right;
+	    margin-right: 10px;
+	    margin-top: 40px;
+	    margin-left: 10px;
+	    margin-bottom: 10px;
+	    border: 1px solid white;
+	    padding-right: 10px;
+   	}
+
+	.agoda_m{
+		display: none;
+	}
+
+}
+
+@media (min-width: 1200px){
+	.agoda_d{
+		display: block;
+		background: url(/agoda_1200en.jpg);
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+/* 		width: 100%; */
+		width: 1170px;
+		margin-left: auto;
+		margin-right: auto;
+		height: 460px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		text-align: inherit;
+		cursor: pointer;
+	}
+	
+	.agoda_frame{
+		float: right;
+		margin-right: 10px;
+		margin-top: 10px;
+		margin-left: 10px;
+		margin-bottom: 10px;
+		border: 1px solid white;
+		padding-right: 10px;
+	}
+
+	.agoda_m{
+		display: none;
+	}
+}
+
+</style>
+<div class="agoda_d" onclick="window.open('https://www.agoda.com/?cid=1770737&hl=en&pcs=2', '_blank')">
+<iframe class="agoda_frame" src="/agoda_m.php?lang=en" height="440" width="340" frameborder="0" scrolling="no"></iframe>
+</div>
+<section class="page-section" id="area" name="area">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<h2 class="section-title"><a style="color: #b6231f;" href="https://japan.com/discover-activities/">
+Discover Activities</a></h2>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-4 col-sm-4 col">
+<a href="https://japan.com/discover-activities/history-kimono-the-thing-to-wear-in-japan/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/da01.jpg);">
+<div class="cheader">History</div>
+</a>
+</div>
+<div class="col-xs-4 col-sm-4 col">
+<a href="https://japan.com/discover-activities/great-outdoors-5-of-japans-cultural-world-heritage-sites-you-should-visit/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/d_002.jpg);">
+<div class="cheader">Great Outdoors</div>
+</a>
+</div>
+<div class="col-xs-4 col-sm-4 col">
+<a href="https://japan.com/discover-activities/theme-parks-theme-and-amusement-parks-in-japan/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/d_003.jpg);">
+<div class="cheader">Theme Parks</div>
+</a>
+</div>
+<div class="col-xs-4 col-sm-4 col">
+<a href="https://japan.com/discover-activities/manga-anime-understanding-manga-the-5-main-categories/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/d_004.jpg);">
+<div class="cheader">Manga & Anime</div>
+</a>
+</div>
+<div class="col-xs-4 col-sm-4 col">
+<a href="https://japan.com/discover-activities/onsen-exploring-japans-hot-spring-variety-5-forms-of-onsen-you-must-try/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/d_005.jpg);">
+<div class="cheader">Onsen</div>
+</a>
+</div>
+<div class="col-xs-4 col-sm-4 col">
+<a href="https://japan.com/discover-activities/technologies-japanese-technology-the-rise-of-a-legend/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/d_006.jpg);">
+<div class="cheader">Technologies</div>
+</a>
+</div>
+<div class="col-xs-2 col-sm-2"></div> <div class="col-xs-4 col-sm-4 col">
+<a href="https://japan.com/discover-activities/traditions-and-culture-zen-buddhism/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/d_007.jpg);">
+<div class="cheader">Traditions and Culture</div>
+</a>
+</div>
+<div class="col-xs-4 col-sm-4 col">
+<a href="https://japan.com/discover-activities/classes-and-workshops-experience-japans-workshops-from-calligraphy-to-samurai/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/d_008.jpg);">
+<div class="cheader">Classes and Workshops</div>
+</a>
+</div>
+</div>
+<div class="last row">
+<div class="ad-banner-container col-md-12">
+<div class="mobile">
+
+</div>
+<div class="desktop">
+
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+
+<section class="page-section" id="lv" name="lv">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<h2 class="section-title"><a style="color: #b6231f;" href="https://japan.com/tokyo/">
+TOKYO</a></h2>
+</div>
+</div>
+</div>
+<div class="col-xs-6 col-md-3 col">
+<a href="https://japan.com/tokyo-hotels/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/tak04.jpg);">
+<h3>Hotels</h3>
+</a>
+</div>
+<div class="col-xs-6 col-md-3 col">
+<a href="https://japan.com/tokyo-shopping/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/tak02.jpg);">
+<h3>Shopping</h3>
+</a>
+</div>
+<div class="col-xs-6 col-md-3 col">
+<a href="https://japan.com/tokyo-entertainment/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/tak05.jpg);">
+<h3>Entertainment</h3>
+</a>
+</div>
+<div class="col-xs-6 col-md-3 col">
+<a href="https://japan.com/tokyo-restaurants/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/tak03.jpg);">
+<h3>Restaurants</h3>
+</a>
+</div>
+<div class="container">
+<div class="last row">
+</div>
+</div>
+</section>
+
+
+
+
+
+
+
+<style>
+	
+body.home section#interests .col {
+    padding: 0;
+}
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="page-section" id="restaurants" name="restaurants">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<h2 class="section-title"><a style="color: #b6231f;" href="https://japan.com/osaka/">
+OSAKA</a></h2>
+</div>
+</div>
+</div>
+<div class="col-xs-6 col-md-3 col">
+<a href="https://japan.com/osaka-hotels/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/os_03.jpg);">
+<h3>Hotels</h3>
+</a>
+</div>
+<div class="col-xs-6 col-md-3 col">
+<a href="https://japan.com/osaka-shopping/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/os_01.jpg);">
+<h3>Shopping</h3>
+</a>
+</div>
+<div class="col-xs-6 col-md-3 col">
+<a href="https://japan.com/osaka-entertainment/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/os_04.jpg);">
+<h3>Entertainment</h3>
+</a>
+</div>
+<div class="col-xs-6 col-md-3 col">
+<a href="https://japan.com/osaka-restaurants/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/os_02.jpg);">
+<h3>Restaurants</h3>
+</a>
+</div>
+<div class="container">
+<div class="last row">
+</div>
+</div>
+</section>
+
+
+<section class="page-section" id="restaurants" name="restaurants">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<h2 class="section-title"><a style="color: #b6231f;" href="https://japan.com/kyoto/">
+KYOTO</a></h2>
+</div>
+</div>
+</div>
+<div class="col-xs-6 col-md-3 col">
+<a href="https://japan.com/kyoto-hotels/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/ky01.jpg);">
+<h3>Hotels</h3>
+</a>
+</div>
+<div class="col-xs-6 col-md-3 col">
+<a href="https://japan.com/kyoto-shopping/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/ky03.jpg);">
+<h3>shopping</h3>
+</a>
+</div>
+<div class="col-xs-6 col-md-3 col">
+<a href="https://japan.com/kyoto-entertainment/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/ky04.jpg);">
+<h3>entertainment</h3>
+</a>
+</div>
+<div class="col-xs-6 col-md-3 col">
+<a href="https://japan.com/kyoto-restaurants/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/ky02.jpg);">
+<h3>restaurants</h3>
+</a>
+</div>
+<div class="container">
+<div class="last row">
+</div>
+</div>
+</section>
+
+
+<section class="page-section" id="lv" name="lv">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<h2 class="section-title"><a style="color: #b6231f;" href="https://japan.com/nagoya/">
+NAGOYA
+</a></h2>
+</div>
+</div>
+</div>
+<div class="col-xs-6 col-md-3 col">
+<a href="https://japan.com/nagoya-hotels/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/na03.jpg);">
+<h3>Hotels</h3>
+</a>
+</div>
+<div class="col-xs-6 col-md-3 col">
+<a href="https://japan.com/nagoya-shopping/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/na01.jpg);">
+<h3>Shopping</h3>
+</a>
+</div>
+<div class="col-xs-6 col-md-3 col">
+<a href="https://japan.com/nagoya-entertainment/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/na04.jpg);">
+<h3>Entertainment</h3>
+</a>
+</div>
+<div class="col-xs-6 col-md-3 col">
+<a href="https://japan.com/nagoya-restaurants/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/na02.jpg);">
+<h3>Restaurants</h3>
+</a>
+</div>
+<div class="container">
+<div class="last row">
+</div>
+</div>
+</section>
+
+
+<section class="page-section" id="lv" name="lv">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<h2 class="section-title"><a style="color: #b6231f;" href="https://japan.com/okinawa/">
+OKINAWA</a></h2>
+</div>
+</div>
+</div>
+<div class="col-xs-6 col-md-3 col">
+<a href="https://japan.com/okinawa-hotels/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/ok03.jpg);">
+<h3>Hotels</h3>
+</a>
+</div>
+<div class="col-xs-6 col-md-3 col">
+<a href="https://japan.com/okinawa-shopping/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/ok01.jpg);">
+<h3>Shopping</h3>
+</a>
+</div>
+<div class="col-xs-6 col-md-3 col">
+<a href="https://japan.com/okinawa-entertainment/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/ok04.jpg);">
+<h3>Entertainment</h3>
+</a>
+</div>
+<div class="col-xs-6 col-md-3 col">
+<a href="https://japan.com/okinawa-restaurants/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2021/12/ok02.jpg);">
+<h3>Restaurants</h3>
+</a>
+</div>
+<div class="container">
+<div class="last row">
+</div>
+</div>
+</section>
+
+
+<section class="page-section" id="restaurants" name="restaurants">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<h2 class="section-title"><a style="color: #b6231f;" href="https://japan.com/fukuoka/">
+FUKUOKA</a></h2>
+</div>
+</div>
+</div>
+<div class="col-xs-6 col-md-3 col">
+<a href="https://japan.com/fukuoka-hotels/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2019/03/fu03.jpg);">
+<h3>Hotels</h3>
+</a>
+</div>
+<div class="col-xs-6 col-md-3 col">
+<a href="https://japan.com/fukuoka-shopping/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2019/03/fu01.jpg);">
+<h3>Shopping</h3>
+</a>
+</div>
+<div class="col-xs-6 col-md-3 col">
+<a href="https://japan.com/fukuoka-entertainment/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2019/03/fu04.jpg);">
+<h3>Entertainment</h3>
+</a>
+</div>
+<div class="col-xs-6 col-md-3 col">
+<a href="https://japan.com/fukuoka-restaurants/" class="item" style="background-image: url(http://japan.com/wp-content/uploads/2019/03/fu02.jpg);">
+<h3>Restaurants</h3>
+</a>
+</div>
+<div class="container">
+<div class="last row">
+</div>
+</div>
+</section>
+
+<section class="page-section" id="googlemap" name="googlemap">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<script type='text/javascript'>
+        //<![CDATA[
+        window.onload = function() {
+                var locations = [
+
+['0',35.66858203556861, 139.76500058440232,0,'http://japan.com/tokyo-hotels/', 'events'],
+['1',35.710105947391824, 139.7769197132389,1,'http://japan.com/tokyo-hotels/', 'events'],
+['2',35.721208029891905, 139.76484444022483,2,'http://japan.com/tokyo-hotels/', 'events'],
+['3',35.68747910426133, 139.77432249789553,'http://japan.com/tokyo-hotels/', 'events'],
+['4',35.69255541859954, 139.70907301323868,4,'http://japan.com/tokyo-hotels/', 'events'],
+['5',35.716030821514956, 139.79398576906055,4,'http://japan.com/tokyo-hotels/', 'events'],
+['6',35.71175940048486, 139.78466035556744,4,'http://japan.com/tokyo-hotels/', 'events'],
+['7',35.678170912530334, 139.76981224022387,4,'http://japan.com/tokyo-hotels/', 'events'],
+['8',35.69835868883279, 139.77264710665315,4,'http://japan.com/tokyo-hotels/', 'events'],
+['9',35.687203133218325, 139.69873725556693,4,'http://japan.com/tokyo-hotels/', 'events'],
+['10',35.670117431880016, 139.7661158709095,4,'http://japan.com/tokyo-hotels/', 'events'],
+['11',35.545077450343925, 139.7674451690569,4,'http://japan.com/tokyo-hotels/', 'events'],
+
+
+['0',35.6604021063918, 139.70032785556643,0,'http://japan.com/tokyo-shopping/', 'shopping'],
+['1',35.69832265118119, 139.7865395555672,1,'http://japan.com/tokyo-shopping/', 'shopping'],
+['2',35.699593724932924, 139.7706907690602,2,'http://japan.com/tokyo-shopping/', 'shopping'],
+['3',35.69851018943606, 139.77163894022434,3,'http://japan.com/tokyo-shopping/', 'shopping'],
+['4',35.668176750020116, 139.76224788255223,4,'http://japan.com/tokyo-shopping/', 'shopping'],
+['5',35.71101016817927, 139.7977191825533,4,'http://japan.com/tokyo-shopping/', 'shopping'],
+['6',35.68750341829878, 139.7024519978956,4,'http://japan.com/tokyo-shopping/', 'shopping'],
+['7',35.667527070662345, 139.7086335709094,4,'http://japan.com/tokyo-shopping/', 'shopping'],
+['8',35.667544503175996, 139.70856919789517,4,'http://japan.com/tokyo-shopping/', 'shopping'],
+['9',35.681947747570504, 139.76615301138833,4,'http://japan.com/tokyo-shopping/', 'shopping'],
+['10',35.698089138777796, 139.7719570978959,4,'http://japan.com/tokyo-shopping/', 'shopping'],
+['11',35.66924741615382, 139.70603510768805,4,'http://japan.com/tokyo-shopping/', 'shopping'],
+
+
+
+['0',35.69451037326032, 139.7029290285814,0,'http://japan.com/tokyo-entertainment/', 'entertainment'],
+['1',35.657944047757816, 139.69430185556632,1,'http://japan.com/tokyo-entertainment/', 'entertainment'],
+['2',35.62585214744172, 139.78236452672988,2,'http://japan.com/tokyo-entertainment/', 'entertainment'],
+['3',35.6664800717929, 139.7303853690595,3,'http://japan.com/tokyo-entertainment/', 'entertainment'],
+['4',35.62926767088007, 139.77603941323727,4,'http://japan.com/tokyo-entertainment/', 'entertainment'],
+['5',35.70394537363176, 139.7533820690602,4,'http://japan.com/tokyo-entertainment/', 'entertainment'],
+['6',35.69480248718632, 139.7009888527742,4,'http://japan.com/tokyo-entertainment/', 'entertainment'],
+['7',35.69471099770694, 139.7020563719276,4,'http://japan.com/tokyo-entertainment/', 'entertainment'],
+['8',35.69305109892634, 139.69955655320658,4,'http://japan.com/tokyo-entertainment/', 'entertainment'],
+['9',35.69536884829431, 139.70328482361668,4,'http://japan.com/tokyo-entertainment/', 'entertainment'],
+['10',35.69529042930386, 139.70130535342773,4,'http://japan.com/tokyo-entertainment/', 'entertainment'],
+['11',35.69467614454432, 139.70359595985235,4,'http://japan.com/tokyo-entertainment/', 'entertainment'],
+
+
+['0',35.68145733414989, 139.77046626905974,0,'http://japan.com/tokyo-restaurants/', 'restaurants'],
+['1',35.670799798399905, 139.70829868255237,1,'http://japan.com/tokyo-restaurants/', 'restaurants'],
+['2',35.69385292846219, 139.77229974022424,2,'http://japan.com/tokyo-restaurants/', 'restaurants'],
+['3',35.68938769946551, 139.77114788440278,3,'http://japan.com/tokyo-restaurants/', 'restaurants'],
+['4',35.69432275384126, 139.70246476906001,4,'http://japan.com/tokyo-restaurants/', 'restaurants'],
+['5',35.685628524280375, 139.77539640502408,4,'http://japan.com/tokyo-restaurants/', 'restaurants'],
+['6',35.68984248139492, 139.77116362673152,4,'http://japan.com/tokyo-restaurants/', 'restaurants'],
+['7',35.695169951249326, 139.70041666906008,4,'http://japan.com/tokyo-restaurants/', 'restaurants'],
+['8',35.6799960678205, 139.77146982673108,4,'http://japan.com/tokyo-restaurants/', 'restaurants'],
+['9',35.702120982971856, 139.7706195580526,4,'http://japan.com/tokyo-restaurants/', 'restaurants'],
+['10',35.681485266922444, 139.76712459577394,4,'http://japan.com/tokyo-restaurants/', 'restaurants'],
+['11',35.70437591082213, 139.79164625371746,4,'http://japan.com/tokyo-restaurants/', 'restaurants'],
+['12',35.68066752369686, 139.76779327830963,4,'http://japan.com/tokyo-restaurants/', 'restaurants'],
+
+
+		                ];
+                var map;
+                var markers = [];
+				
+                function init() {
+
+                    map = new google.maps.Map(document.getElementById('map_canvas'), {
+                        zoom: 14,
+                        center: new google.maps.LatLng(35.66858203556861, 139.76500058440232),
+                        mapTypeId: google.maps.MapTypeId.ROADMAP
+                    });
+
+                    var num_markers = locations.length;
+                    for (var i = 0; i < num_markers; i++) {
+
+
+					var iconBase = 'http://japan.com/wp-content/uploads/2018/10/';
+
+					if(locations[i][5] == 'events'){
+						var iconurl = iconBase + 'events.png';
+					}else if(locations[i][5] == 'shopping'){
+						var iconurl = iconBase + 'shopping.png';
+					}else if(locations[i][5] == 'entertainment'){
+						var iconurl = iconBase + 'ent.png';
+					}else if(locations[i][5] == 'restaurants'){
+						var iconurl = iconBase + 'rest.png';
+					}
+
+					//alert(iconurl);
+					
+					var image = {
+			          url: iconurl,
+			          // This marker is 20 pixels wide by 32 pixels high.
+			          size: new google.maps.Size(32, 32),
+			          // The origin for this image is (0, 0).
+			          origin: new google.maps.Point(0, 0),
+			          // The anchor for this image is the base of the flagpole at (0, 32).
+			          anchor: new google.maps.Point(0, 32)
+			        };
+
+
+                        markers[i] = new google.maps.Marker({
+                            position: {
+                                lat: locations[i][1],
+                                lng: locations[i][2]
+                            },
+                            map: map,
+                            icon: image,
+                            html: locations[i][0],
+                            url: locations[i][4],
+                            id: i,
+                        });
+
+                        google.maps.event.addListener(markers[i], 'click', function() {
+  
+                            window.location.href = this.url;
+                            //window.location.href='http://google.com';
+
+                        });
+                    }
+                }
+
+                init();
+            } //]]>
+    </script>
+<script defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBeVcZaX4envLZ7eE9qA5yIfC5o3J1PYrA&amp;callback=initMap">
+</script>
+<div id="wrapper_content">
+<h2 class="section-title" style="color: #b6231f!important;">Locations</h2>
+<div id="map_canvas" style="height: 500px;"></div>
+
+<div class="last row"></div></div>
+</div>
+</div>
+</section>
+<section class="page-section" id="connect" name="connect">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<style>
+
+.world-map-icon-div {
+	padding: 80px 0 120px 0;
+}
+
+.world-map-icon-para {
+	padding-bottom: 40px;
+	width: 90%;
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.world_title {	
+    text-align: center;
+    font-size: 40px;
+    color: #f04f50;
+    letter-spacing: 2px;
+    font-family: 'HelveticaNeue-Thin';
+    font-weight: 300;
+}
+
+.world_msg {	
+	padding: 40px 60px;
+    margin-top: 20px;
+    text-align: center; 
+
+    letter-spacing: 0.5px !important; 
+    width: auto;
+    margin-left: auto !Important;
+    margin-right: auto !important;
+
+   
+    font-family: Source Sans Pro,sans-serif !important;
+    font-size: 15px;
+    line-height: 25px;
+    color: #333;
+}
+
+.world-map-icon-inner {
+	display: block;
+	padding: 0px 100px 0px 100px;
+    margin: 0 auto; 
+    text-align: center;
+}
+
+.world_map_icon {
+	display: inline-block; 
+	margin-left: 10px;
+    width: 15%;
+	
+}
+
+.world_map_icon_2 {
+	display: inline-block; 
+
+}
+
+.world_map_icon img{
+	width: 100%;
+}
+
+.world_map_icon_2 img{
+	width: 100%;
+}
+
+
+@media only screen and (min-width: 1300px){
+	.world-map-icon-inner {
+		padding: 0px 30px 0px 30px;
+	}
+	.world_map_icon {
+		margin-left: 5px;
+	}
+	.world_map_icon_2 {
+		margin-left: 18px;
+    	margin-right: 18px;
+		margin-bottom: 25px;
+		max-width: 200px;
+	}
+}
+
+@media only screen and (max-width: 1300px){
+	.world-map-icon-inner {
+		padding: 0px 30px 0px 30px;
+	}
+	.world_map_icon {
+		margin-left: 5px;
+	}
+	.world_map_icon_2 {
+		margin-left: 18px;
+    	margin-right: 18px;
+		margin-bottom: 25px;
+		max-width: 200px;
+	}
+}
+
+
+@media only screen and (max-width: 1150px){
+	.world-map-icon-inner {
+		padding: 0px 30px 0px 30px;
+	}
+	.world_map_icon {
+		margin-left: 5px;
+	}
+	.world_map_icon_2 {
+		margin-left: 12px;
+    	margin-right: 12px;
+		margin-bottom: 23px;
+		max-width: 200px;
+	}
+}
+
+
+
+
+
+@media only screen and (max-width: 1024px){
+	.world-map-icon-inner {
+		padding: 0px 30px 0px 30px;
+	}
+	.world_map_icon {
+		margin-left: 5px;
+	}
+	.world_map_icon_2 {
+		margin-left: 10px;
+    	margin-right: 10px;
+		margin-bottom: 20px;
+		max-width: 200px;
+	}
+
+}
+
+
+@media only screen and (max-width: 768px){
+	.world-map-icon-inner {
+		padding: 0px 30px 0px 30px;
+	}
+
+	.world_map_icon {
+		margin-left: 5px;
+	}
+	.world_map_icon_2 {
+		margin-left: 6px;
+    	margin-right: 6px;
+		margin-bottom: 12px;
+		max-width: 200px;
+	}
+}
+
+@media only screen and (max-width: 660px){
+	.world-map-icon-inner {
+		padding: 0px 30px 0px 30px;
+	}
+
+	.world_map_icon {
+		margin-left: 5px;
+	}
+	.world_map_icon_2 {
+		margin-left: 4px;
+    	margin-right: 4px;
+		margin-bottom: 14px;
+		max-width: 75px;
+	}
+}
+
+@media only screen and (max-width: 480px){
+	.world_title {
+		line-height: 40px!important;
+	}
+	.world-map-icon-inner {
+		padding: 0px 30px 0px 30px;
+	}
+
+	.world_map_icon {
+		margin-left: 5px;
+	}
+	.world_map_icon_2 {
+		margin-left: 2px;
+   	 	margin-right: 2px;
+		margin-bottom: 4px;
+		max-width: 75px;
+	}
+
+}
+
+@media only screen and (max-width: 414px){
+	.world_map_icon {
+		display: inline-block;
+		width: 44%; 
+		padding-bottom: 25px;
+		margin-left: 15px;
+	}
+	.world-map-icon-inner {
+    padding: 0px 30px 0px 30px;
+	}
+	.world_map_icon_2 {
+		margin-left: 6px;
+		margin-right: 6px;
+		
+		margin-bottom: 12px;
+		max-width: 105px;
+	}
+}
+
+@media only screen and (max-width: 335px){
+	.world_map_icon {
+		display: inline-block;
+		width: 44%; 
+		padding-bottom: 25px;
+		margin-left: 15px;
+	}
+	.world-map-icon-inner {
+    padding: 0px 30px 0px 30px;
+	}
+	.world_map_icon_2 {
+		margin-left: 6px;
+		margin-right: 6px;
+		
+		margin-bottom: 12px;
+		max-width: 80px;
+	}
+}
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+</style>
+<div class="world-map-icon-div" style="padding: 60px 0 50px 0;">
+<div class="world-map-icon-para">
+<h2 class="section-title">CONNECT TO YOUR WORLD</h2>
+<p class="world_msg">Explore the world with us. Pick your dream destination and see our exclusive travel guide. You can even subscribe to our newsletter, so you won't miss any latest update and the hottest things to do in town.</p>
+</div>
+<div class="world-map-icon-inner">
+<div style="text-align: center">
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://www.london.com" target="_blank">
+<img src="https://japan.com/images/greatbritain.png">
+</a>
+</div>
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://greatbritain.com/" target="_blank">
+<img src="https://japan.com/images/greatbritain_n.png">
+</a>
+</div>
+<div class="clearfix"></div>
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://www.rome.com" target="_blank">
+<img src="https://japan.com/images/rome.png">
+</a>
+</div>
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://italy.com" target="_blank">
+<img src="https://japan.com/images/italy.png">
+</a>
+</div>
+</div>
+<div style="text-align: center">
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://madrid.com" target="_blank">
+<img src="https://japan.com/images/madrid.png">
+</a>
+</div>
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://www.spain.com" target="_blank">
+<img src="https://japan.com/images/spain.png">
+</a>
+</div>
+<div class="clearfix"></div>
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://sweden.com" target="_blank">
+<img src="https://japan.com/images/sweden.png">
+</a>
+</div>
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://turkey.com" target="_blank">
+<img src="https://japan.com/images/turkey.png">
+</a>
+</div>
+</div>
+<div style="text-align: center">
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://www.russia.com" target="_blank">
+<img src="https://japan.com/images/russia.png">
+</a>
+</div>
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://hungary.com" target="_blank">
+<img src="https://japan.com/images/hungary.png">
+</a>
+</div>
+<div class="clearfix"></div>
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://www.paris.com" target="_blank">
+<img src="https://japan.com/images/paris.png">
+</a>
+</div>
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://panama.com" target="_blank">
+<img src="https://japan.com/images/panama.png">
+</a>
+</div>
+</div>
+<div style="text-align: center">
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://america.com" target="_blank">
+<img src="https://japan.com/images/america.png">
+</a>
+</div>
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://brazil.com" target="_blank">
+<img src="https://japan.com/images/brazil.png">
+</a>
+</div>
+<div class="clearfix"></div>
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://chinese.com/" target="_blank">
+<img src="https://japan.com/images/chinese.png">
+</a>
+</div>
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://www.macau.com" target="_blank">
+<img src="https://japan.com/images/macau.png">
+</a>
+</div>
+</div>
+<div style="text-align: center">
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://www.tokyo.com" target="_blank">
+<img src="https://japan.com/images/tokyo.png">
+</a>
+</div>
+<div class="world_map_icon_2 margin_left_zero">
+<a href="https://www.japan.com" target="_blank">
+<img src="https://japan.com/images/japan.png">
+</a>
+</div>
+<div class="clearfix"></div>
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://pakistan.com" target="_blank">
+<img src="https://japan.com/images/pakistan.png">
+</a>
+</div>
+<div class="world_map_icon_2 margin_left_zero">
+<a href="https://mongolia.com/" target="_blank">
+<img src="https://japan.com/images/mongolia.png">
+</a>
+</div>
+</div>
+<div style="text-align: center">
+<div class="world_map_icon_2 margin_left_zero">
+<a href="http://www.singapore.com" target="_blank">
+<img src="https://japan.com/images/singapore.png">
+</a>
+</div>
+<div class="world_map_icon_2 margin_left_zero">
+<a href="https://indonesia.com/" target="_blank">
+<img src="https://japan.com/images/indonesia.png">
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<style>
+
+footer .menu#footer li {
+    margin-right: 1.5em;
+}
+
+.fmenu{
+	text-align: center;
+}
+
+footer .menu#footer li a {
+    font-family: Poppins;
+    font-size: .875em;
+    font-weight: 500;
+    letter-spacing: .0375em;
+    text-transform: uppercase;
+}
+
+footer #copyright {
+    text-align: center;
+}
+	
+footer #yelp-attribute {
+    text-align: center;
+    width: 100%;
+}
+
+@media screen and (max-width: 420px){
+	
+	footer .menu#footer {
+    	display: block!important;
+	}
+	
+	footer .menu#footer li {
+    	margin-right: 0px;
+    	display: block;
+	}
+
+	footer .menu#footer li a {
+	    font-family: Poppins;
+	    font-size: .875em;
+	    font-weight: 500;
+	    letter-spacing: .0375em;
+	    text-transform: uppercase;
+	}
+
+	.fmenu {
+		text-align: center;
+	}
+	
+	footer .menu#social-media {
+	    text-align: center;
+	}
+	
+	footer #copyright {
+	    text-align: center;
+	}
+	
+	footer #yelp-attribute {
+	    text-align: center;
+	    width: 100%;
+	    padding-top: 10px;
+	    margin: 0px;
+	}
+	
+	.left{
+		text-align: center;
+	}
+	
+	.right{
+		margin-bottom: 20px;
+	}
+	
+}
+
+@media (min-width: 992px){
+	footer #yelp-attribute {
+	    margin: 0 !important;
+	}
+}
+
+header .menu ul a:focus, header .menu ul a:hover {
+    /* color: #333333!important; */
+}
+
+header .menu ul a:hover {
+    /* color: #b6231f!important; */
+}
+
+
+footer #yelp-attribute {
+    margin: 0 0 .5625em 14px;
+}
+
+@media (min-width: 768px){
+	footer #yelp-attribute {
+	    font-size: .75em;
+	    margin: 0;
+	    padding-top: 10px;
+	}
+}
+
+footer .menu#footer {
+    display: block!important;
+}
+
+</style>
+<footer style="background-image: url(http://japan.com/wp-content/themes/london/images/bg-footer.jpg); padding-top: 0px;">
+<div class="container">
+<div style="width: 100%; float: left;" class="fmenu">
+<a class="logo" href="https://japan.com" style="background-image: url(http://japan.com/wp-content/themes/london/images/logo-london_s.png);"></a>
+</div>
+<div style="width: 100%; float: left; margin-bottom: 20px;" class="fmenu">
+<ul id="social-media" class="menu"><li id="menu-item-24" class="menu-item menu-item-type-custom menu-item-object-custom social-icon facebook menu-item-24"><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//japan.com"><i class='fa-2x fa fa-facebook '></i><span class='fa-hidden'>Facebook</span></a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-custom menu-item-object-custom social-icon twitter menu-item-26"><a href="https://twitter.com/home?status=http%3A//japan.com"><i class='fa-2x fa fa-twitter '></i><span class='fa-hidden'>Twitter</span></a></li>
+</ul> </div>
+<div style="width: 100%; float: left;" class="fmenu">
+<ul id="footer" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4622"><a href="https://japan.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5843"><a href="https://japan.com/partnership/">Partnership</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="https://japan.com/terms-and-conditions/">Terms and Conditions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="https://japan.com/privacy-policy/">Privacy Policy</a></li>
+</ul> </div>
+<div style="width: 100%; float: left;" class="fmenu">
+<p id="copyright">©2016 - 2023 Japan.com All Rights Reserved.</p>
+<p style="font-size: .75em;font-family: sans-serif;margin-bottom: 0px;margin-top: 10px;text-align: center;padding-left: 40px;padding-right: 40px;">Japan.com is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Country of Japan or any government agencies.</p>
+<p id="yelp-attribute">Powered by Pear Media Management Ltd and <a href="https://www.yelp.com/" target="_blank" class="yelp-logo"></a>.</p>
+<p id="yelp-attribute">粤ICP备16104545号 -1. <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030502004091" target="_blank"><img src="https://brazil.com/images/logo2.jpg">粤公网安备 44030502004091号</a></p>
+</div>
+</div>
+</footer>
+</div>
+<script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&ak=w5D7yS7cBM8G2T2BpHj0GyqEEDG8SanU"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcAjax = "http:\/\/japan.com\/wp-admin\/admin-ajax.php?lang=en";
+/* ]]> */
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+<script type='text/javascript' src="https://japan.com/wp-content/plugins/wp-cloudy/js/wp-cloudy-ajax.js"></script>
+<script type='text/javascript' src="https://japan.com/wp-content/plugins/yelp-reviews-pro/lib/js/readmore.min.js"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var njt_yelp_main = {"read_more":"Read more","read_less":"Read less"};
+/* ]]> */
+</script>
+<script type='text/javascript' src="https://japan.com/wp-content/plugins/yelp-reviews-pro/lib/js/main.js"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var newsletter = {"messages":{"email_error":"The email is not correct","name_error":"The name is not correct","surname_error":"The last name is not correct","privacy_error":"You must accept the privacy statement"},"profile_max":"20"};
+/* ]]> */
+</script>
+<script type='text/javascript' src="https://japan.com/wp-content/plugins/newsletter/subscription/validate.js"></script>
+<script type='text/javascript' src="https://japan.com/wp-includes/js/wp-embed.min.js"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var icl_vars = {"current_language":"en","icl_home":"http:\/\/japan.com\/","ajax_url":"http:\/\/japan.com\/wp-admin\/admin-ajax.php","url_type":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src="https://japan.com/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyBgpe-M2iPHeBbPLnGE7Z7blxvzjW-6TbM&#038;ver=4.8.7'></script>
+<script type='text/javascript' src="https://japan.com/wp-content/themes/london/production/js/vendor.min.js"></script>
+<script type='text/javascript' src="https://japan.com/wp-content/themes/london/production/js/script.min.js"></script>
+
+<script>$(document).ready(function () {
+		$('a[href*=#]').bind('click', function (e) {
+				e.preventDefault(); // prevent hard jump, the default behavior
+
+				var target = $(this).attr("href"); // Set the target as variable
+
+				// perform animated scrolling by getting top-position of target-element and set it as scroll target
+				$('html, body').stop().animate({
+						scrollTop: $(target).offset().top },
+				600, function () {
+						location.hash = target; //attach the hash (#jumptarget) to the pageurl
+				});
+
+				return false;
+		});
+});
+
+$(window).scroll(function () {
+		var scrollDistance = $(window).scrollTop();
+		var top = 300
+		var finalh = scrollDistance + top;
+		//alert(finalh);
+		// Show/hide menu on scroll
+		//if (scrollDistance >= 850) {
+		//		$('nav').fadeIn("fast");
+		//} else {
+		//		$('nav').fadeOut("fast");
+		//}
+
+		// Assign active class to nav links while scolling
+		$('.page-section').each(function (i) {
+				if ($(this).position().top <= finalh) {
+						$('#sectionmenu .navigation a.active').removeClass('active');
+						$('#sectionmenu .navigation a').eq(i).addClass('active');
+				}
+		});
+}).scroll();
+//# sourceURL=pen.js
+</script>
+
+
+<script type="text/javascript">
+			var w = window.innerWidth;
+			//alert(w);
+			
+			window.addEventListener('resize', function(event){
+				//var divHeight = $(body).width();
+				var hw = window.innerWidth;
+				if(w != hw){
+					location.reload();
+				}
+			});
+		
+		</script>
+
+
+<script type="text/javascript">
+   $('.searchmenu1').on('mouseover',function(){
+				$('.searchmenu2').children('.sub-menu').hide();
+				$('.searchmenu3').children('.sub-menu').hide();
+				$('.searchmenu4').children('.sub-menu').hide();
+				$('.searchmenu2').removeClass( "active" );
+				$('.searchmenu3').removeClass( "active" );
+				$('.searchmenu4').removeClass( "active" );
+    });
+
+
+
+   $('.searchmenu2').on('mouseover',function(){
+				$('.searchmenu1').children('.sub-menu').hide();
+				$('.searchmenu3').children('.sub-menu').hide();
+				$('.searchmenu4').children('.sub-menu').hide();
+				$('.searchmenu1').removeClass( "active" );
+				$('.searchmenu3').removeClass( "active" );
+				$('.searchmenu4').removeClass( "active" );
+    });
+
+
+   $('.searchmenu3').on('mouseover',function(){
+				$('.searchmenu1').children('.sub-menu').hide();
+				$('.searchmenu2').children('.sub-menu').hide();
+				$('.searchmenu4').children('.sub-menu').hide();
+				$('.searchmenu1').removeClass( "active" );
+				$('.searchmenu2').removeClass( "active" );
+				$('.searchmenu4').removeClass( "active" );
+    });
+
+
+   $('.searchmenu4').on('mouseover',function(){
+				$('.searchmenu1').children('.sub-menu').hide();
+				$('.searchmenu2').children('.sub-menu').hide();
+				$('.searchmenu3').children('.sub-menu').hide();
+				$('.searchmenu1').removeClass( "active" );
+				$('.searchmenu2').removeClass( "active" );
+				$('.searchmenu3').removeClass( "active" );
+    });
+
+
+	
+
+	$("#menu-item-6253 > a").on('click', function() {
+		
+		if($( "#menu-item-6253" ).hasClass( "active" )){
+			$('.searchmenu1').children('.sub-menu').hide();
+		}
+	
+		$('.searchmenu2').children('.sub-menu').hide();
+		$('.searchmenu3').children('.sub-menu').hide();
+		$('.searchmenu4').children('.sub-menu').hide();
+		$('.searchmenu2').removeClass( "active" );
+		$('.searchmenu3').removeClass( "active" );
+		$('.searchmenu4').removeClass( "active" );
+	});
+	
+	$("#menu-item-6259 > a").on('click', function() {
+	
+		if($( "#menu-item-6259" ).hasClass( "active" )){
+			$('.searchmenu2').children('.sub-menu').hide();
+		}
+	
+		$('.searchmenu1').children('.sub-menu').hide();
+		$('.searchmenu3').children('.sub-menu').hide();
+		$('.searchmenu4').children('.sub-menu').hide();
+		$('.searchmenu1').removeClass( "active" );
+		$('.searchmenu3').removeClass( "active" );
+		$('.searchmenu4').removeClass( "active" );
+	});
+	
+	$("#menu-item-6265 > a").on('click', function() {
+	
+		if($( "#menu-item-6265" ).hasClass( "active" )){
+			$('.searchmenu3').children('.sub-menu').hide();
+		}
+	
+		$('.searchmenu1').children('.sub-menu').hide();
+		$('.searchmenu2').children('.sub-menu').hide();
+		$('.searchmenu4').children('.sub-menu').hide();
+		$('.searchmenu1').removeClass( "active" );
+		$('.searchmenu2').removeClass( "active" );
+		$('.searchmenu4').removeClass( "active" );
+	});
+	
+	$("#menu-item-6270 > a").on('click', function() {
+	
+		if($( "#menu-item-6270" ).hasClass( "active" )){
+			$('.searchmenu4').children('.sub-menu').hide();
+		}
+	
+		$('.searchmenu1').children('.sub-menu').hide();
+		$('.searchmenu2').children('.sub-menu').hide();
+		$('.searchmenu3').children('.sub-menu').hide();
+		$('.searchmenu1').removeClass( "active" );
+		$('.searchmenu2').removeClass( "active" );
+		$('.searchmenu3').removeClass( "active" );
+	});
+
+</script>
+
+</body>
+</html>

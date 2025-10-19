@@ -1,0 +1,76 @@
+# =====================
+# Operating System Files
+# =====================
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+.nfs*
+
+# =====================
+# Build and Output Folders
+# =====================
+/build/
+/bin/
+/obj/
+/out/
+
+# =====================
+# wxWidgets / IDE Files
+# =====================
+.vscode/
+*.vcxproj*
+*.sln
+*.user
+*.ncb
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+
+# =====================
+# Compiled Files
+# =====================
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+*.a
+*.lib
+*.pdb
+
+# =====================
+# Temporary / Cache Files
+# =====================
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# =====================
+# Local Page Downloads
+# =====================
+page_*.txt
+
+# =====================
+# Submodules (if any)
+# =====================
+devops-exercises/
+
+# =====================
+# Others
+# =====================
+*.bak
+*.old

@@ -97,13 +97,17 @@ Tips
 
 ## 📸 Screenshots / Demo
 
-Include these assets in the `assets/` folder of the repo:
+Include these assets in the `assets/` folder of the repo (or place repository screenshots under `docs/` as shown):
+
+- docs/screenshot_gui.png — full GUI screenshot (committed to docs/)
 - assets/ui_fetcher.png — fetcher panel
 - assets/ui_search.png — search & results
 - assets/demo.gif — short GIF showing fetch → search → preview
 
 Example markdown to show images:
 <p align="center">
+    <img src="docs/screenshot_gui.png" alt="Full GUI screenshot" width="700" />
+    <br/>
     <img src="assets/ui_fetcher.png" alt="Fetcher panel" width="520" />
     <br/>
     <img src="assets/ui_search.png" alt="Search & Results" width="520" />

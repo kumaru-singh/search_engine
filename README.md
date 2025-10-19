@@ -1,140 +1,157 @@
-<p align="center">
-    <h1>🕸️ wxWidgets Search Engine with Web Crawler</h1>
-    <p>
-        <a href="https://github.com/your-username/your-repo"><img alt="build" src="https://img.shields.io/badge/build-passing-brightgreen" /></a>
-        <a href="https://github.com/your-username/your-repo/actions"><img alt="ci" src="https://img.shields.io/github/actions/workflow/status/your-username/your-repo/ci.yml?branch=main&label=CI" /></a>
-        <a href="https://github.com/your-username/your-repo/releases"><img alt="release" src="https://img.shields.io/github/v/release/your-username/your-repo" /></a>
-        <a href="LICENSE"><img alt="license" src="https://img.shields.io/badge/license-MIT-blue" /></a>
-    </p>
-</p>
-
-A lightweight C++ desktop application using wxWidgets and libcurl for downloading web pages and searching them locally. Ideal as a mini offline search engine and GUI demo for recruiters.
-
----
-
-## Table of Contents
-
-- Features
-- Preview
-- Tech Stack
-- Quick Start
-- Build & Run
-- How It Works
-- Code Overview
-- Contributing
-- Author & License
-- Keywords
-
----
-
-## Features
-
-- Download web pages via libcurl and save as plain-text `.txt` files (hashed filenames).
-- Offline full-text search across downloaded files with filename, line number, and context snippet.
-- Simple, responsive GUI built with wxWidgets.
-- Self-contained: no external DB — data saved under app data/downloads.
-- Search options: case sensitivity and whole-word matching.
-- Keyboard shortcuts and context actions (Open, Copy snippet, Reveal in Explorer).
-
----
-
-## Preview
+# 🕸️ wxWidgets Search Engine with Web Crawler
 
 <p align="center">
-    <img src="assets/ui_fetcher.png" alt="Fetcher panel" width="520" />
-    <br />
-    <img src="assets/ui_search.png" alt="Search & Results panel" width="520" />
+    <a href="https://github.com/your-username/your-repo"><img alt="build" src="https://img.shields.io/badge/build-passing-brightgreen" /></a>
+    <a href="https://github.com/your-username/your-repo/actions"><img alt="ci" src="https://img.shields.io/github/actions/workflow/status/your-username/your-repo/ci.yml?branch=main&label=CI" /></a>
+    <a href="https://img.shields.io/badge/license-MIT-blue"><img alt="license" src="https://img.shields.io/badge/license-MIT-blue" /></a>
+    <img alt="language" src="https://img.shields.io/badge/language-C%2B%2B-blue" />
 </p>
 
----
-
-## Tech Stack
-
-| Component      | Technology |
-| -------------- | ---------- |
-| GUI            | wxWidgets |
-| HTTP Fetching  | libcurl |
-| File Handling  | C++17 <filesystem> |
-| Language       | C++ (STL) |
-| Build          | g++, clang, or MSVC |
+Lightweight desktop search engine built in C++ using wxWidgets for GUI and libcurl for fetching pages. Stores fetched pages as plain-text files and provides fast offline full-text search with context snippets — ideal as a recruiter-facing demo or a small offline search utility.
 
 ---
 
-## Quick Start (Developer-friendly)
+## 🚀 Features
 
-1. Clone the repo
-     git clone https://github.com/your-username/your-repo.git
-2. Install dependencies: wxWidgets, libcurl, C++17 toolchain
-3. Build and run (examples below)
+- Fetch HTTP(S) pages using libcurl and save as plain-text `.txt` files (SHA-256 hashed filenames).
+- Offline full-text search across saved files with filename, line number, and snippet preview.
+- Search options: case-sensitive toggle and whole-word matching.
+- Simple 3-pane GUI (downloads, fetcher, search/results + preview) built with wxWidgets.
+- No external DB — data stored under app data/downloads.
+- Context actions: Open file, Copy snippet, Reveal in Explorer.
+- Extensible: designed for adding multithreaded crawling, inverted index, or SQLite metadata.
 
 ---
 
-## Build & Run
+## 🛠️ Installation
 
-Linux / macOS (example)
+Prerequisites
+- C++17 toolchain (g++, clang, or MSVC)
+- wxWidgets (development headers)
+- libcurl (development headers)
+- CMake (optional but recommended)
+
+Linux (Ubuntu/Debian example)
 ```bash
-sudo apt install libwxgtk3.0-gtk3-dev libcurl4-openssl-dev
+sudo apt update
+sudo apt install build-essential cmake libwxgtk3.0-gtk3-dev libcurl4-openssl-dev
+```
+
+macOS (Homebrew)
+```bash
+brew install wxwidgets curl cmake
+```
+
+Windows (MSYS2 / MinGW recommended)
+- Install MSYS2, then:
+```bash
+pacman -S mingw-w64-x86_64-toolchain mingw-w64-x86_64-wxWidgets mingw-w64-x86_64-curl
+```
+
+Build (CMake recommended)
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+mkdir build && cd build
+cmake ..
+cmake --build . --config Release
+# Resulting binary: search_engine (or search_engine.exe)
+```
+
+Quick single-file build (example)
+```bash
+# Linux/macOS using wx-config
 g++ main.cpp `wx-config --cxxflags --libs` -lcurl -std=c++17 -o search_engine
+```
+
+Output location
+- Saved pages: <app_data>/downloads/page_<sha256>.txt  
+Each file contains the original URL, fetch timestamp, and plain-text content.
+
+---
+
+## 💡 Usage
+
+Start the app (GUI)
+```bash
 ./search_engine
 ```
 
-Windows (MinGW example)
+Typical workflow
+1. Enter a URL in the fetcher pane and click Fetch. The app downloads and saves the page.
+2. Switch to Search pane, type a keyword or phrase.
+3. Toggle case-sensitivity / whole-word options if needed.
+4. Click a result to view the file at the matching line. Use context menu to Open, Copy snippet, or Reveal in Explorer.
+
+Command-line (headless fetch helper, if included)
 ```bash
-g++ main.cpp -std=c++17 -IC:\wxWidgets\include -LC:\wxWidgets\lib -lwxmsw31u_core -lwxbase31u -lcurl -o search_engine.exe
-search_engine.exe
+# Example helper to fetch a URL and save as text (if provided)
+./search_engine --fetch "https://example.com"
 ```
 
-Output files: <app_data>/downloads/<sha256>.txt — each file stores original URL, fetch timestamp, and plain-text content.
+Tips
+- Files are incremental and immutable: duplicates detected via SHA-256.
+- Use the downloads pane to remove or re-fetch pages.
 
 ---
 
-## How It Works
+## 📸 Screenshots / Demo
 
-1. Enter URL → app downloads HTML via libcurl.  
-2. Save Page → written as `page_<sha256>.txt` in downloads folder.  
-3. Search → type a keyword/phrase; app scans `.txt` files and lists matches with filename, line number, and snippet.  
-4. Preview → click result to open file at matching line in preview pane.
+Include these assets in the `assets/` folder of the repo:
+- assets/ui_fetcher.png — fetcher panel
+- assets/ui_search.png — search & results
+- assets/demo.gif — short GIF showing fetch → search → preview
 
----
-
-## Code Overview
-
-- OnCrawl()
-    - Performs HTTP GET with libcurl, normalizes HTML to text, computes SHA-256 filename, and saves the file.
-- OnSearch()
-    - Walks downloads directory using std::filesystem, streams files line-by-line, applies search options, and populates results list.
-- UI
-    - Three-pane pattern: left (downloads), top-right (fetcher), bottom-right (search & results + preview).
-
-Suggestions for improvements:
-- Multi-threaded crawling
-- Inverted index for fast queries
-- Highlighted matches in preview
-- Recursive link crawling
-- Optional SQLite integration for metadata
+Example markdown to show images:
+<p align="center">
+    <img src="assets/ui_fetcher.png" alt="Fetcher panel" width="520" />
+    <br/>
+    <img src="assets/ui_search.png" alt="Search & Results" width="520" />
+    <br/>
+    <img src="assets/demo.gif" alt="Demo" width="600" />
+</p>
 
 ---
 
-## Contributing
+## 👨‍💻 Contributing
 
-- Fork → create feature branch → open PR with concise description and tests (if applicable).
-- Keep commits focused and include build instructions for any new dependency.
+Guidelines
+- Fork the repo, create a feature branch: git checkout -b feat/short-desc
+- Keep PRs focused and include a concise description of changes.
+- Add tests for new logic where applicable (see Tests section).
+- Follow existing code style and comment non-obvious logic.
+- For UI changes, include updated screenshots or GIFs.
 
----
-
-## Author
-
-Rahul Singh — C++ developer exploring GUI and search engine design.  
-(Replace author info with your contact/portfolio link for recruiter-friendly profile.)
-
----
-
-## License
-
-MIT License — see LICENSE file.
+Suggested improvements
+- Add inverted index for fast queries
+- Parallel fetcher with polite rate-limiting
+- Highlight matched snippets in preview
+- Optional SQLite store for metadata and query stats
 
 ---
 
-## Keywords
+## 🧪 Tests
 
-C++, wxWidgets, libcurl, filesystem, search-engine, web-crawler, offline-search, GUI
+If tests are included, run them from the build directory:
+```bash
+# Example for CTest
+ctest --output-on-failure
+```
+
+Recommended test areas
+- HTML → plain-text normalization
+- SHA-256 filename generation (duplicate detection)
+- Line-by-line search behavior: case/whole-word correctness
+- File I/O: read/write integrity across platforms
+
+Consider adding a small unit-test harness using Catch2 or GoogleTest for parser and search logic.
+
+---
+
+## 📄 License
+
+MIT License — see LICENSE file for full text.
+
+---
+
+If you want, I can produce a ready-to-copy CMakeLists.txt, a sample demo GIF script, or a concise CONTRIBUTING.md next.

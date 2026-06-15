@@ -157,5 +157,3 @@ Consider adding a small unit-test harness using Catch2 or GoogleTest for parser 
 MIT License — see LICENSE file for full text.
 
 ---
-
-If you want, I can produce a ready-to-copy CMakeLists.txt, a sample demo GIF script, or a concise CONTRIBUTING.md next.
